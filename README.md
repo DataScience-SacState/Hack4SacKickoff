@@ -13,18 +13,18 @@ Don't make this project just end this weekend
 Department of Human assitance
 How can we use technology to overcome Human Assistance challenges?
 Homeless Perspective:
-1. Jobs
-2. Housing
-3. Information
+ - 1. Jobs
+ - 2. Housing
+ - 3. Information
 Department Level:
-1. Where can homeless people use their food stamps
+ - 1. Where can homeless people use their food stamps
 Community Level:
-1. Social capital, allowing people to find opportunities in a way that's meaningful
+ - 1. Social capital, allowing people to find opportunities in a way that's meaningful
 ##Laura McCasland
 Department of Health and Human Services
 Vaccinations challenges:
-1. Changing of time/location of vaccination clinics
-2. How do we kick start immediate healthcare opportunities in the event of an emergency
+ - 1. Changing of time/location of vaccination clinics
+ - 2. How do we kick start immediate healthcare opportunities in the event of an emergency
 ##Sue Elliot
 Sacramento County District Attorney's Office
 "Help is out there, how do we communicate this to people with immediate needs"
