@@ -7,3 +7,5 @@ Don't just focus on the tech
 Engage at existing pain-points
 Make it scale
 ##Joel Riphagen
+
+#### eyy yo get your commits in! ;D
